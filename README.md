@@ -41,3 +41,5 @@ Negative content generates approximately **25% more engagement** than positive c
 ## Tools Used
 
 Python, Pandas, NumPy, NLTK, Matplotlib, Google Colab
+
+Developed in collaboration with Saumya Jaiswal. Original repo: https://github.com/saumya-jaiswal/influencer-impact-analysis
